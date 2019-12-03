@@ -1,3 +1,6 @@
+## React training application for Natro Developers. This repo will be maintained by Natro Devs for educational purpose.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
